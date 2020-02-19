@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SoulKnight:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SoulKnight_jar</output-path>
+    <root id="archive" name="SoulKnight.jar">
+      <element id="module-output" name="SoulKnight" />
+    </root>
+  </artifact>
+</component>
