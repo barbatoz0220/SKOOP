@@ -12,4 +12,6 @@ helped us reach this far: https://youtu.be/hM4pN7hAsgg
 However, the above playlist is not a complete one and our team has done our best to improvise and thus we have managed to add a few 
 additional features to the game to make it what it is today.
 
+All the resources that we used for the game are all free to use and we did not make the game out of our own financial interests. Much of them you can find along with the source code that the Youtuber has added in his videos's descriptions. 
+
 Thank you very much for choosing to play our game.
